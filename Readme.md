@@ -9,7 +9,7 @@ Executing test : pytest http_test.py
 
 Git location : https://github.com/tusharrohatgi/Assignment-TTMZero
 
-Generating and Gettign Allure report
+Generating and Getting Allure report
 pytest --alluredir=./report http_test.py
 allure serve ./report/
 
